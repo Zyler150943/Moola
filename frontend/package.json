@@ -1,5 +1,8 @@
 {
   "name": "moola",
+=======
+  "name": "Moola",
+>>>>>>> 1f0e90ac4953c08a50d32ae0a31227db23b03243
   "private": true,
   "version": "0.0.0",
   "type": "module",
