@@ -11,5 +11,5 @@
 3. **Запустите контейнеры**  
    Выполните команду:
    ```bash
-   docker-compose up -d
+   docker-compose up -d --build
    ```
