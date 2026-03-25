@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+database/pgdata/
+__pycache__
+venv
+.env
